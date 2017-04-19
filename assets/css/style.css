@@ -108,5 +108,43 @@ footer {
 
 }
 
+form {
+	font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+	color: #777;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+label {
+	padding-top: 10px;
+}
+
+input {
+	width: 100%;
+}
+
+#message {
+	height: 250px;
+}
+
+button {
+	background-color: #4aaaa5;
+	color: #fff;
+	font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+	border: none;
+	width: 90px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	font-size: 15px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	padding-left: 18px;
+	padding-right: 18px;
+}
+
+
+
+
 
 
