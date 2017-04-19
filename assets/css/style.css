@@ -143,7 +143,23 @@ button {
 	padding-right: 18px;
 }
 
+#portfolioImage1,#portfolioImage2, #portfolioImage3, #portfolioImage4, #portfolioImage5 {
+	width: 100%;
+	margin-bottom: 20px;
+	position: relative;
+}
 
+#hangman, #rpgGame, #triviaGame, #rutgers, #rock {
+	background-color: #4aaaa5;
+	font-family: "Georgia", Times, Times New Roman, serif;
+	color: #fff;
+	padding: 15px;
+	font-size: 20px;
+	position: absolute;
+	width: 295px;
+    bottom: 25px;
+    text-align: center; 
+}
 
 
 
